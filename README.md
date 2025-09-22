@@ -24,7 +24,7 @@ This project involves cleaning a sample orders dataset to make it consistent, ac
    - Ensured numeric columns (`quantity_ordered`, `price_each`, `sales`, etc.) are correctly typed.
 
 5. **Column Names**
-   - Renamed all columns to lowercase with underscores (e.g., `order_number` instead of `Order Number`) for uniformity.
+   - Renamed all columns to lowercase with underscores (e.g., `order_number` instead of `OrderNumber`) for uniformity.
 
 6. **Removing Duplicates**
    - Checked and removed any duplicate rows to maintain data integrity.
